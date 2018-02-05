@@ -1,0 +1,5 @@
+username=zs
+password=testpwd
+group=1
+hostname=node1
+url=127.0.0.1:8080
